@@ -8,4 +8,6 @@ Descriptions about each python script (for more detailed explanations about spec
 
 3) pew_multiplelines.py : By running this, connected with (2), the user gets as outcome files that contain the EW values of each star, based on the line list used.
 
+4) central_lines.py : this small script creates a list of the absorption lines, based on the wavelength ranges that was initially given for the calculations of EWs. It is used in several cases below, as I refer to an absorption line with it's central length-value (because the initial line list just contained the left and the right edges of it)
 
+5) 
