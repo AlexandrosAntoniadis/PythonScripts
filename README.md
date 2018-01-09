@@ -36,8 +36,9 @@ measured regardless the star and temperature and how many are measured accuratel
 16) rel_zoom_Dplot.py : similar concept as in (14), and connected to the (15). I present the plot with the lines that have a +/- 100 % difference in the average values of EWs by me and Vasco. I consider this figure that occurs from this code, as the most important one among the figures occuring from (13), (14) and (15). 
 ( Using a mapping code that I will add to github later on, I see that the lines with difference greater than +/-15% are only around 70 out of 4014, which means that my method of calculating the pseudo-EWs works great and in a very good agreement with Vasco's.)
 
-17) 
+17) TeffVSmeandiff.py : this script creates a plot showing the mean difference on EW calculations of each star against its temperature, to see how small or big this is according to how cool or hot it is and reveal any trends about this possible connection.
 
+18) Teff_VS_relativemeandiff.py : similar concept to (17), but more important, because it refers to the % mean difference, which gives a better understanding of the accuracy of measurements. The conclusions from this figure are more clear and solid.
 
 
 
