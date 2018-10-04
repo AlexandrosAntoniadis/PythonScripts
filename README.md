@@ -40,6 +40,7 @@ measured regardless the star and temperature and how many are measured accuratel
 
 18) Teff_VS_relativemeandiff.py : similar concept to (17), but more important, because it refers to the % mean difference, which gives a better understanding of the accuracy of measurements. The conclusions from this figure are more clear and solid.
 
+19) pew_convovle.py: Instrument broadening of HARPS spectra from Jason. Uses `mutliprocess` Does not require uniform wavelength range. Adapted from https://github.com/jason-neal/convolve_spectrum
 
 
 

@@ -1,0 +1,7 @@
+argparse
+astropy
+matplotlib
+multiprocess
+numpy
+pandas
+pyastronomy
